@@ -1,4 +1,4 @@
-Add a .env file:
+Add .env file:
 
 MONGODB_URI=mongodb+srv://**USERNAME**:**PASSWORD**@**CLUSTERNAME**.nmxxsrm.mongodb.net/**DATABASENAME**
 
